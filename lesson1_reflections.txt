@@ -1,0 +1,4 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+don`t have to look through so much stuff
+
